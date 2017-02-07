@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>html/accueil.html</file>
+        <file>html/backk.jpg</file>
+        <file>html/facebook-icon.png</file>
+        <file>html/google-icon.png</file>
+        <file>html/youtube-icon.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>acceuil.png</file>
+        <file>actualiser.png</file>
+        <file>go.png</file>
+        <file>hainavigo.png</file>
+        <file>plus.png</file>
+        <file>precedente.png</file>
+        <file>smile.png</file>
+        <file>stop.png</file>
+        <file>suivante.png</file>
+    </qresource>
+</RCC>
